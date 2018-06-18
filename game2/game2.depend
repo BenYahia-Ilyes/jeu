@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1529284314 source:c:\users\tunisie\desktop\nouveau dossier\game2\main.cpp
+	<iostream>
+	"cases.h"
+	<cstdlib>
+	<time.h>
+
+1529283237 c:\users\tunisie\desktop\nouveau dossier\game2\include\cases.h
+	<bits/stdtr1c++.h>
+
+1529244268 source:c:\users\tunisie\desktop\nouveau dossier\game2\src\cases.cpp
+	"cases.h"
+
