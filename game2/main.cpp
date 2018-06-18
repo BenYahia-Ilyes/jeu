@@ -68,6 +68,9 @@ for (int i=0;i<n;i++)
        }
    }
 
+   cout << endl << endl ;
+   cout << "choisit  un case"  ;
+
 
 /*
    for (int i=0;i<n;i++)
