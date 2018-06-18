@@ -11,3 +11,14 @@
 1529244268 source:c:\users\tunisie\desktop\nouveau dossier\game2\src\cases.cpp
 	"cases.h"
 
+1529244268 source:c:\users\tunisie\documents\jeu\game2\src\cases.cpp
+	"cases.h"
+
+1529327717 c:\users\tunisie\documents\jeu\game2\include\cases.h
+	<bits/stdtr1c++.h>
+
+1529331149 source:c:\users\tunisie\documents\jeu\game2\main.cpp
+	<iostream>
+	"cases.h"
+	<cstdlib>
+
