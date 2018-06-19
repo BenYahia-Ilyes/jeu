@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    system("color f2") ;
+    system("color f5") ;
     int n,y,b ,a,o,s;
 
-    cout << "chose the size of the array   " ;
+    cout << "le taille du tableau   " ;
     cin >> n ;
     system("CLS") ;
     cases tab[n][n] ;
