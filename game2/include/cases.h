@@ -12,6 +12,8 @@ class cases
         int nbr=0 ;
         string ch="x" ;
         bool bomb=false ;
+        bool used=false ;
+
         cases();
         virtual ~cases();
 
